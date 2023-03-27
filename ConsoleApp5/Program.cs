@@ -7,6 +7,12 @@ using System.Threading.Tasks;
 
 namespace HomeWork2
 {
+
+    class array
+    {
+
+    }
+
     internal class HomeWork2
     {
         static void Main(string[] args)
